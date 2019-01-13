@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="quantity_zero">0</string>
+    <string name="quantity_one">1</string>
+    <string name="quantity_two">2</string>
+    <string name="quantity_three">3</string>
+    <string name="overview_textbox">Overview</string>
+    <string name="book_name_textbox">Name</string>
+    <string name="price_textbox">Price</string>
+    <string name="quantity_textbox">Quantity</string>
+    <string name="supplier_textbox">Supplier</string>
+    <string name="supplier_name_hint">Supplier Name</string>
+    <string name="supplier_number_hint">Supplier #</string>
+</resources>
